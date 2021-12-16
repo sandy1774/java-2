@@ -1,0 +1,122 @@
+Dec 14, 2021 2:05:42 PM com.example.demo.Application main
+SEVERE: critical message
+Dec 14, 2021 2:05:42 PM com.example.demo.Application main
+WARNING: warning
+Dec 14, 2021 2:05:42 PM com.example.demo.Application main
+INFO: logger implemented successfully
+Dec 14, 2021 2:09:02 PM com.example.demo.Application main
+SEVERE: critical message
+Dec 14, 2021 2:09:02 PM com.example.demo.Application main
+WARNING: warning
+Dec 14, 2021 2:09:02 PM com.example.demo.Application main
+INFO: logger implemented successfully
+Dec 14, 2021 2:11:34 PM com.example.demo.Application main
+SEVERE: critical message
+Dec 14, 2021 2:11:34 PM com.example.demo.Application main
+WARNING: warning
+Dec 14, 2021 2:11:34 PM com.example.demo.Application main
+INFO: logger implemented successfully
+Dec 14, 2021 2:11:43 PM com.example.demo.Application main
+SEVERE: critical message
+Dec 14, 2021 2:11:43 PM com.example.demo.Application main
+WARNING: warning
+Dec 14, 2021 2:11:43 PM com.example.demo.Application main
+INFO: logger implemented successfully
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:12:37</date>
+  <millis>1639471357917</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>SEVERE</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>critical message</message>
+</record>
+<record>
+  <date>2021-12-14T14:12:37</date>
+  <millis>1639471357931</millis>
+  <sequence>1</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning</message>
+</record>
+<record>
+  <date>2021-12-14T14:12:37</date>
+  <millis>1639471357931</millis>
+  <sequence>2</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logger implemented successfully</message>
+</record>
+</log>
+Dec 14, 2021 2:13:14 PM com.example.demo.Application main
+SEVERE: critical message
+Dec 14, 2021 2:13:14 PM com.example.demo.Application main
+WARNING: warning
+Dec 14, 2021 2:13:14 PM com.example.demo.Application main
+INFO: logger implemented successfully
+Dec 14, 2021 2:16:50 PM com.example.demo.Application main
+SEVERE: critical message
+Dec 14, 2021 2:16:50 PM com.example.demo.Application main
+WARNING: warning
+Dec 14, 2021 2:16:50 PM com.example.demo.Application main
+INFO: logger implemented successfully
+Dec 14, 2021 2:18:47 PM com.example.demo.Application main
+SEVERE: critical message
+Dec 14, 2021 2:18:47 PM com.example.demo.Application main
+WARNING: warning
+Dec 14, 2021 2:18:47 PM com.example.demo.Application main
+INFO: logger implemented successfully
+Dec 14, 2021 2:20:32 PM com.example.demo.Application main
+SEVERE: critical message
+Dec 14, 2021 2:20:32 PM com.example.demo.Application main
+WARNING: warning
+Dec 14, 2021 2:20:32 PM com.example.demo.Application main
+INFO: logger implemented successfully
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:27:36</date>
+  <millis>1639472256553</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>SEVERE</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>critical message</message>
+</record>
+<record>
+  <date>2021-12-14T14:27:36</date>
+  <millis>1639472256572</millis>
+  <sequence>1</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning</message>
+</record>
+<record>
+  <date>2021-12-14T14:27:36</date>
+  <millis>1639472256573</millis>
+  <sequence>2</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logger implemented successfully</message>
+</record>
+</log>

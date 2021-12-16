@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T15:35:39</date>
+  <millis>1639476339512</millis>
+  <sequence>0</sequence>
+  <logger>com.exception.service.TestCustomException</logger>
+  <level>INFO</level>
+  <class>com.exception.service.TestCustomException</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>101,ram,dev</message>
+</record>
+<record>
+  <date>2021-12-14T15:35:39</date>
+  <millis>1639476339532</millis>
+  <sequence>1</sequence>
+  <logger>com.exception.service.TestCustomException</logger>
+  <level>WARNING</level>
+  <class>com.exception.service.TestCustomException</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>salary should be above zero</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T15:36:32</date>
+  <millis>1639476392632</millis>
+  <sequence>0</sequence>
+  <logger>com.exception.service.TestCustomException</logger>
+  <level>INFO</level>
+  <class>com.exception.service.TestCustomException</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>101,ram,dev</message>
+</record>
+<record>
+  <date>2021-12-14T15:36:32</date>
+  <millis>1639476392653</millis>
+  <sequence>1</sequence>
+  <logger>com.exception.service.TestCustomException</logger>
+  <level>WARNING</level>
+  <class>com.exception.service.TestCustomException</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>salary should be above zero</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T15:42:53</date>
+  <millis>1639476773187</millis>
+  <sequence>0</sequence>
+  <logger>com.emp.Application</logger>
+  <level>SEVERE</level>
+  <class>com.emp.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>critical message</message>
+</record>
+<record>
+  <date>2021-12-14T15:42:53</date>
+  <millis>1639476773209</millis>
+  <sequence>1</sequence>
+  <logger>com.emp.Application</logger>
+  <level>WARNING</level>
+  <class>com.emp.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning</message>
+</record>
+<record>
+  <date>2021-12-14T15:42:53</date>
+  <millis>1639476773209</millis>
+  <sequence>2</sequence>
+  <logger>com.emp.Application</logger>
+  <level>INFO</level>
+  <class>com.emp.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logger implemented successfully</message>
+</record>
+</log>

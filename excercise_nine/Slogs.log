@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:55:49</date>
+  <millis>1639542349927</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=santhoshgmail]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:57:12</date>
+  <millis>1639542432012</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=santhosh@gmail]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:59:01</date>
+  <millis>1639542541865</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=santhosh@gmail]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:59:13</date>
+  <millis>1639542553944</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=santhosh@gmail.com]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:00:19</date>
+  <millis>1639542619527</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=santhosh@gmail.com]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:00:30</date>
+  <millis>1639542630312</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=santhosh@gmail]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:01:05</date>
+  <millis>1639542665369</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=santhosh@gmail.in]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:01:14</date>
+  <millis>1639542674138</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=santhosh@gmail.com]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:05:51</date>
+  <millis>1639542951937</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=santhosh@gmail]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:17:01</date>
+  <millis>1639543621959</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=null]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:20:11</date>
+  <millis>1639543811817</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=null]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:21:07</date>
+  <millis>1639543867241</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=null]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:23:33</date>
+  <millis>1639544013569</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> [custId=102, area=nerkundram, email=santhosh@gmail.com]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
